@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "neon"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua"  # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "ko"
@@ -22,7 +22,7 @@ subtitle                 : # site tagline that appears below site title in masth
 name                     : "yachoo"
 description              : "명지대학교 정보통신공학과 김예찬"
 url                      : "https://yachoo0611.github.io/"
-baseurl                  : ""
+baseurl                  : "/"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -96,8 +96,9 @@ author:
   name             : "김예찬"
   avatar           : "/assets/images/3_4.jpg"
   bio              : "기록"
-  location         : "Korea"
-  email            :
+  location         : "Seoul Korea"
+  email            : "localhost3000@kakao.com"
+  github           : "yachoo0611"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"

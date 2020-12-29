@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "PS"
     url: /categories/ps/
+  - title: "Post"
+    url: /posts/
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"

@@ -1,5 +1,5 @@
 ---
-title: "Who Am I?"
+title: "김 예 찬"
 permalink: /about/
 layout: single
 ---
